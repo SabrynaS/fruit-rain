@@ -1,5 +1,8 @@
 # Jogo-Fruit-Rain
 
+![Imagem inicial](fundo_inicio.png)
+
+
 Fruit Rain é um jogo divertido e viciante onde frutas caem do céu e você deve pegar apenas as frutas boas para acumular pontos. Tenha cuidado com as frutas podres, pois ao tocá-las, você perderá vida. À medida que o tempo passa, a velocidade das frutas aumenta, tornando o jogo cada vez mais desafiador. Seu objetivo é atingir uma pontuação específica antes de ficar sem vida. Boa sorte!
 
 ## Como Jogar
